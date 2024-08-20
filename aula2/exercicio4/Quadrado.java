@@ -1,4 +1,4 @@
-/*Exercício 2: Implemente a classe Quadrado:
+/*Exercício 4: Implemente a classe Quadrado:
 Essa deve prover funcionalidades de cálculo de perímetro e área.
 */
 package exercicio4;
