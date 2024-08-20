@@ -1,4 +1,4 @@
-/*Exercício 1: Implemente a classe revolver (p/ um jogo).
+/*Exercício 3: Implemente a classe revolver (p/ um jogo).
 Todo revolver possui uma quantidade atual de munição e uma quantidade máxima. Suas funcionalidades são:
 - Atirar: Só atira se houver munição;
 - Recaregar: Só recarrega até o máximo possível;
